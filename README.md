@@ -1,4 +1,4 @@
-# RESTfulBlogApi
+# RESTful Blog APIs
 
 Building a RESTful Blog APIs using python and flask for 4 Basic CRUD (Create, Read, Update, Delete) Operations
 
