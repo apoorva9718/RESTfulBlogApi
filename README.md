@@ -16,3 +16,11 @@ Blogpost of Users
 - GET api/v1/blogposts/<int:blogpost_id> - Get A Blogposts (READ)
 - PUT api/v1/blogposts/<int:blogpost_id> - Update A Blogpost (UPDATE)
 - DELETE api/v1/blogposts/<int:blogpost_id> - Delete A Blogpost (DELETE)
+
+Comments on Blogpost for the current loggged in User
+- POST api/v1//comments - Create a new comment  (CREATE)
+- GET api/v1//comments - GET all comments (READ)
+- PUT api/v1//comments/:id - Update a specific comment (UPDATE)
+- DELETE api/v1//comments/:id - Delete a comment (DELETE)
+
+
